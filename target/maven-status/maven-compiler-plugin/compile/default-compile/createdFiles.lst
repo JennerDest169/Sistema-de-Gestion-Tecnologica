@@ -1,1 +1,13 @@
+com\grupo04\GestionDeEquiposTEC\Entidad\Prestamos.class
+com\grupo04\GestionDeEquiposTEC\Services\RolServicio.class
+com\grupo04\GestionDeEquiposTEC\Services\UsuarioServicio.class
+com\grupo04\GestionDeEquiposTEC\Repository\RolRepository.class
+com\grupo04\GestionDeEquiposTEC\Confinguracion\SeguridadConfig.class
+com\grupo04\GestionDeEquiposTEC\Entidad\Usuario.class
+com\grupo04\GestionDeEquiposTEC\Repository\UsuarioRepository.class
+com\grupo04\GestionDeEquiposTEC\DTO\UsuarioRequest.class
+com\grupo04\GestionDeEquiposTEC\Entidad\Equipos.class
+com\grupo04\GestionDeEquiposTEC\Controller\UsuarioController.class
+com\grupo04\GestionDeEquiposTEC\Entidad\Rol.class
 com\grupo04\GestionDeEquiposTEC\GestionDeEquiposTecApplication.class
+com\grupo04\GestionDeEquiposTEC\DTO\LoginRequest.class

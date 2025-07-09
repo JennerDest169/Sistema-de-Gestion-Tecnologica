@@ -1,1 +1,13 @@
-C:\Users\Humberto\Desktop\GestionDeEquiposTEC\GestionDeEquiposTEC\src\main\java\com\grupo04\GestionDeEquiposTEC\GestionDeEquiposTecApplication.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\Confinguracion\SeguridadConfig.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\Controller\UsuarioController.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\DTO\LoginRequest.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\DTO\UsuarioRequest.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\Entidad\Equipos.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\Entidad\Prestamos.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\Entidad\Rol.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\Entidad\Usuario.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\GestionDeEquiposTecApplication.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\Repository\RolRepository.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\Repository\UsuarioRepository.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\Services\RolServicio.java
+C:\Users\Humberto\Desktop\reportes\Sistema-de-Gestion-Tecnologica\src\main\java\com\grupo04\GestionDeEquiposTEC\Services\UsuarioServicio.java
