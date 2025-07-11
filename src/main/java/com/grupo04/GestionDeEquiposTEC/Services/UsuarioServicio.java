@@ -2,6 +2,7 @@ package com.grupo04.GestionDeEquiposTEC.Services;
 
 import com.grupo04.GestionDeEquiposTEC.Entidad.Usuario;
 import com.grupo04.GestionDeEquiposTEC.Repository.UsuarioRepository;
+import java.util.List;
 import java.util.Optional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -33,6 +34,18 @@ public class UsuarioServicio {
             throw new IllegalArgumentException("El usuario debe tener un rol asignado");
         }
         usu.setPassword(passEnco.encode(usu.getPassword()));
+        usuRepo.save(usu);
+    }
+    
+    public List<Usuario> todoUsuarios(){
+        return usuRepo.findAll();
+    }
+    
+    public Optional<Usuario> usuarioForId(int id){
+        return usuRepo.findById(id);
+    }
+    
+    public void updateUsuario(Usuario usu){
         usuRepo.save(usu);
     }
 }
