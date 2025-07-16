@@ -4,7 +4,13 @@
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "GestionDeEquiposTecApplication",
+            "request": "launch",
+            "mainClass": "com.grupo04.GestionDeEquiposTEC.GestionDeEquiposTecApplication",
+            "projectName": "GestionDeEquiposTEC"
+        },
         {
             "type": "chrome",
             "request": "launch",
